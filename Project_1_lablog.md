@@ -345,10 +345,13 @@ snpEff ann k12 VarScan_results.vcf > VarScan_results_annotated.vcf
 ## Again visualize it with IGV and load
 Here we need
 - sorted .bam file
-- inzipped reference genome
+- unzipped reference genome
 - .gff file with annotations
-- annotated .vcf file
+- __annotated__ .vcf file
 
+![SNPs visualisation with IGV](https://github.com/opnpfgt/Practice_BI_project_1/blob/main/IGV_pr1_full_screen.png)
+
+![SNP visualisation with IGV. Gene envZ](https://github.com/opnpfgt/Practice_BI_project_1/blob/main/IGV_pr1_1_snip.png)
 
 As a result, you will obtain a vcf file with additional field "ANN" (for "annotation"), describing all the effects for each SNP.
 Also you may fond snp description in IGV, you just need to click on it and tou will find aaaall the information you need.
