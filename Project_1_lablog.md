@@ -356,4 +356,6 @@ Here we need
 As a result, you will obtain a vcf file with additional field "ANN" (for "annotation"), describing all the effects for each SNP.
 Also you may fond snp description in IGV, you just need to click on it and tou will find aaaall the information you need.
 
+snpEFF output is overhere: https://github.com/opnpfgt/Practice_BI_project_1/blob/main/snpEFF_output
+
 Good luck!
