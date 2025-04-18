@@ -20,7 +20,7 @@ brew install samtools
 brew install snpeff #didn't work
 ```
 
-or much better
+or much betterr
 
 ```Zsh
 conda create -n prac_project_1
